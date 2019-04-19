@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ProxyOnsDomein">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ProxyOnsDomein/out/artifacts/ProxyOnsDomein_jar/ProxyOnsDomein.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
